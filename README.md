@@ -60,7 +60,7 @@ make clean && make
 Or compile individually:
 
 ```bash
-gcc filename.c -o os_simulator `pkg-config --cflags --libs gtk+-3.0`
+gcc filename.c -o filename `pkg-config --cflags --libs gtk+-3.0`
 ```
 
 ---
