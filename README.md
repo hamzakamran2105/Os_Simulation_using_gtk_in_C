@@ -1,10 +1,6 @@
 # Os_Simulation_using_gtk_in_C
 
-Based on your project structure from the screenshot, here's a suggested `README.txt` content tailored to your **Operating System Simulator project**. This covers the purpose, structure, task list, compilation, and execution:
 
----
-
-# Operating System Simulator
 
 **Author**: \Hamza_kamran
 **Date**: May 2025
